@@ -14,13 +14,14 @@ Este projeto faz parte do módulo avançado da pós-graduação em Desenvolvimen
 
 ## Destaques do aprendizado:
 
-- Aprendi a integrar IA com streams de resposta no front-end;
-- Consegui usar uma ferramenta que conecta o usuário à inteligência artificial em tempo real, entregando informações úteis e contextualizadas.
+- Agora sei como provisionar serviços de cloud escrevendo código, sem depender da interface gráfica;
+- Entendimento da importância do IAC para evitar duplicações e melhorar a governança da infraestrutura;
+- Automatização do deploy de recursos utilizando CI/CD.
 
 ## Informações adicionais:
 
-- 👨‍💻 Tecnologias: AI SDK Vercel, TypeScript, OpenAI, Next.js
-- 📘 Aulas: 10
-- ⏰ Duração total: 1h 20min
+- 👨‍💻 Tecnologias: Pulumi, AWS, Bucket.
+- 📘 Aulas: 12
+- ⏰ Duração total: 2h 07min
 
-> #AI #OpenAI #Vercel #FullStack #NextJS #TypeScript #Chatbot #InteligenciaArtificial #Rocketseat #DevJourney
+> #Pulumi #InfrastructureAsCode #IAC #AWS #CloudComputing #DevOps #CI_CD #Rocketseat #FullStack
