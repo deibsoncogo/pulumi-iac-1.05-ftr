@@ -14,14 +14,13 @@ Este projeto faz parte do módulo avançado da pós-graduação em Desenvolvimen
 
 ## Destaques do aprendizado:
 
-- Agora sei como provisionar serviços de cloud escrevendo código, sem depender da interface gráfica;
-- Entendimento da importância do IAC para evitar duplicações e melhorar a governança da infraestrutura;
-- Automatização do deploy de recursos utilizando CI/CD.
+- Aprendi a integrar IA com streams de resposta no front-end;
+- Consegui usar uma ferramenta que conecta o usuário à inteligência artificial em tempo real, entregando informações úteis e contextualizadas.
 
 ## Informações adicionais:
 
-- 👨‍💻 Tecnologias: Pulumi, AWS, Bucket.
-- 📘 Aulas: 12
-- ⏰ Duração total: 2h 07min
+- 👨‍💻 Tecnologias: AI SDK Vercel, TypeScript, OpenAI, Next.js
+- 📘 Aulas: 10
+- ⏰ Duração total: 1h 20min
 
-> #Pulumi #InfrastructureAsCode #IAC #AWS #CloudComputing #DevOps #CI_CD #Rocketseat #FullStack
+> #AI #OpenAI #Vercel #FullStack #NextJS #TypeScript #Chatbot #InteligenciaArtificial #Rocketseat #DevJourney
